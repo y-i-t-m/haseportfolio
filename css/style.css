@@ -234,7 +234,7 @@ main {
 .scroll:before {
   font-family: "Font Awesome 5 FREE";
   font-weight: 900;
-  content: "\f107";
+  content: "\f078";
   font-size: 4rem;
   color: #333;
 }
@@ -483,9 +483,10 @@ input[type="email"] {
   margin: 0 auto;
 }
 
-textarea {
+.textarea {
   padding: 5px;
   font-size: 2rem;
+  min-height: 20rem;
   border-radius: 8px;
   background-color: #fff;
 }

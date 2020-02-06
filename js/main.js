@@ -46,4 +46,5 @@
       $(this).parent().find('.label-hint').removeClass('label-hint-active');
     }
   });
+  
 })();
